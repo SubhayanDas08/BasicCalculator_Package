@@ -2,6 +2,8 @@
 
 This is my first python package. This is a very simple calculator that takes 2 numbers and can either add, subtract, multiply or divide them.
 
+Link: https://pypi.org/project/SDasBasicCalculator/1.0.1/
+
 # Installation
 
 Run the following  to install :
