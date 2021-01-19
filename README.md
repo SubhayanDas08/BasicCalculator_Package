@@ -7,7 +7,7 @@ This is my first python package. This is a very simple calculator that takes 2 n
 Run the following  to install :
 
 ```python
-pip install SDasBasicCalculator 
+pip install SDasBasicCalculator==1.0.1
 ```
 
 ## Usage
@@ -18,8 +18,6 @@ from SDasBasicCalculator import sub_num
 from SDasBasicCalculator import mul_num
 from SDasBasicCalculator import div_num
 ```
-
-
 
 #### Add 2 numbers:
 
